@@ -32,6 +32,7 @@ NTUST 111-1-賴祐吉-電腦圖學導論 Project3(Roller Coasters)
   22. 車頭產生煙霧開啟/關閉。<br>
   23. 24. 陽光光源位置，使用球坐標系。<br>
 </p>
+
 #### 運行結果
 <img src="https://i.imgur.com/VvQptTi.png" width="417" height="329" /><img src="https://i.imgur.com/b9ftiz1.png" width="417" height="329" />
 <img src="https://i.imgur.com/ki1jXtg.png" width="417" height="329" /><img src="https://i.imgur.com/Xq1iVzA.png" width="417" height="329" />
