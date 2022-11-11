@@ -34,5 +34,5 @@ NTUST 111-1-賴祐吉-電腦圖學導論 Project3(Roller Coasters)
 </p>
 
 #### 運行結果
-<img src="https://i.imgur.com/VvQptTi.png" width="417" height="329" /><img src="https://i.imgur.com/b9ftiz1.png" width="417" height="329" />
-<img src="https://i.imgur.com/ki1jXtg.png" width="417" height="329" /><img src="https://i.imgur.com/Xq1iVzA.png" width="417" height="329" />
+<img src="https://i.imgur.com/VvQptTi.png" width="400" height="316" /><img src="https://i.imgur.com/b9ftiz1.png" width="400" height="316" />
+<img src="https://i.imgur.com/ki1jXtg.png" width="400" height="316" /><img src="https://i.imgur.com/Xq1iVzA.png" width="400" height="316" />
