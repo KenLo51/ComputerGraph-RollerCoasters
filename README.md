@@ -1,14 +1,19 @@
 # ComputerGraph-Roller Coasters
 
-#### Libraries
+1. 實現Cardinal Splines與B-spline。  
+2. OpenGL 1.0函數(未使用Shader)。  
+3. obj模型載入與基本動畫。  
+4. 軌道使用Adaptive subdivision適當減少模型面。  
+
+## Libraries
  1. [fltk-1.3.2](https://www.fltk.org/)
  2. OpenGL 1.0
  3. [tinyobjloader](https://github.com/tinyobjloader/tinyobjloader)
  
- #### Models
+## Models
  1. [Voxel Trees](https://skfb.ly/6FURN)
  
-#### 功能說明
+## 功能說明
 <img src="https://i.imgur.com/aTm1lxO.png" width="417" height="329" />
 
 
@@ -32,6 +37,6 @@
  > 23. 24. 陽光光源位置(球坐標系)。<br>
 
 
-#### 運行結果
+## 運行結果
 <img src="https://i.imgur.com/VvQptTi.png" width="400" height="316" /><img src="https://i.imgur.com/b9ftiz1.png" width="400" height="316" />
 <img src="https://i.imgur.com/ki1jXtg.png" width="400" height="316" /><img src="https://i.imgur.com/Xq1iVzA.png" width="400" height="316" />
