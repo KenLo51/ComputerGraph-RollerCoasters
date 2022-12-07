@@ -1,4 +1,4 @@
-# ComputerGraph-Roller Coasters
+# ComputerGraphic-Roller Coasters
 
 1. 實現Cardinal Splines與B-spline，基礎程序化生成軌道。  
 2. OpenGL 1.0函數(未使用Shader)。  
